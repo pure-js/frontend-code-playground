@@ -2,10 +2,9 @@
 The local place to build and test front-end code.
 ## Prerequesties
 You should have this VSCode plugins installed. \
-Yo can simply install them from a VSCode workspace recommendations \
+Yo can simply install them from a VSCode workspace recommendations
 - [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
-- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
-But you can use any webserver instead of Live Server extension
+- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) (But you can use any webserver instead)
 ## How to use
 1. Put all your front-end code inside `local-content/` folder
 2. Run local web server
