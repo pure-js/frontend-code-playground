@@ -99,3 +99,6 @@ dist
 
 # Local folder
 local-content/*
+
+# MacOS specific files
+.DS_store
