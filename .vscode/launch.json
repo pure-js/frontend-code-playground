@@ -12,6 +12,16 @@
       "userDataDir": true,
       "webRoot": "${workspaceFolder}",
       "runtimeExecutable": "/Applications/Brave Browser.app/Contents/MacOS/Brave Browser"
+    },
+    {
+      "type": "chrome",
+      "request": "launch",
+      "name": "Launch Brave against headless localhost",
+      "url": "http://127.0.0.1:5500/index.html",
+      "userDataDir": true,
+      "webRoot": "${workspaceFolder}",
+      "runtimeExecutable": "/Applications/Brave Browser.app/Contents/MacOS/Brave Browser",
+      "runtimeArgs": ["--headless"]
     }
   ]
 }
