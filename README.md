@@ -1,11 +1,8 @@
 # Front-end test environment
 
-## The local place to build and test front-end code.
+The local place to build and test front-end code.
 
-**NOTE**
-We use Brave instead of Chrome, but you can chage that inside `./vscode/launch.js`file
-
----
+> **NOTE** We use the Brave browser instead of Chrome, but you can chage that inside a `./vscode/launch.js`file
 
 ## Prerequesties
 
