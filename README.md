@@ -1,4 +1,4 @@
-# Front-end test environment
+# Front-end Code Playground
 
 The local place to build and test front-end code.
 
