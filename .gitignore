@@ -98,7 +98,7 @@ dist
 .tern-port
 
 # Local folder
-# local-content/
+local-content/
 
 # MacOS specific files
 .DS_store
