@@ -1,1 +1,1 @@
-import * as foo from './local-content/demo.js';
+import * as foo from "./playground/preact-template.js";
