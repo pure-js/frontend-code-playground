@@ -1,6 +1,6 @@
 # Front-end Code Playground
 
-The local place to build and test front-end code.
+The local sanbox for front-end code creation and testing
 
 > **NOTE** We use the Brave browser instead of Chrome, but you can chage that inside a `./vscode/launch.js`file
 
