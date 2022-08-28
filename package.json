@@ -2,6 +2,7 @@
   "name": "frontend-code-playground",
   "version": "1.0.0",
   "description": "The local sanbox for front-end code creation and testing",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
