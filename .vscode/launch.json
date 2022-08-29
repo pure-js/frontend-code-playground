@@ -7,20 +7,20 @@
     {
       "type": "pwa-chrome",
       "request": "launch",
-      "name": "Launch Brave against localhost",
-      "url": "http://127.0.0.1:5500/index.html",
+      "name": "Launch Chromium against localhost",
+      "url": "http://127.0.0.1:5500",
       "userDataDir": true,
       "webRoot": "${workspaceFolder}",
-      "runtimeExecutable": "/Applications/Brave Browser.app/Contents/MacOS/Brave Browser"
+      "runtimeExecutable": "/Applications/Chromium.app/Contents/MacOS/Chromium"
     },
     {
       "type": "chrome",
       "request": "launch",
-      "name": "Launch Brave headless against localhost",
-      "url": "http://127.0.0.1:5500/index.html",
+      "name": "Launch Chromium headless against localhost",
+      "url": "http://127.0.0.1:5500",
       "userDataDir": true,
       "webRoot": "${workspaceFolder}",
-      "runtimeExecutable": "/Applications/Brave Browser.app/Contents/MacOS/Brave Browser",
+      "runtimeExecutable": "/Applications/Chromium.app/Contents/MacOS/Chromium",
       "runtimeArgs": ["--headless"]
     }
   ]
